@@ -2,7 +2,7 @@
   
   # 👋 ¡Hola! Soy Juan Valenzuela
   
-  ## Backend Developer | Oracle Next Education (ONE) | Java Spring Boot + Cloud Computing
+  ## Backend Developer - DevOps | Oracle Next Education (ONE) | Java - Spring Boot + Cloud Computing
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Specialist;Cloud+Computing+%26+OCI;WebSocket+%26+Microservices;Always+Building+Scalable+Solutions" alt="Typing SVG" />
   
@@ -12,7 +12,7 @@
 
 ## 🚀 **Sobre mí**
 
-Soy un **Backend Developer** especializado en **Java Spring Boot** y **Cloud Computing**, graduado del programa **Oracle Next Education (ONE)**. Me enfoco en crear arquitecturas robustas, APIs escalables y soluciones empresariales con **Oracle Cloud Infrastructure**. Ganador del **3er lugar en Alumnithon 2025** con SkillLink, una plataforma de colaboración en tiempo real.
+Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** y **Cloud Computing**, graduado del programa **Oracle Next Education (ONE)**. Me enfoco en crear arquitecturas robustas, APIs escalables y soluciones empresariales con **Oracle Cloud Infrastructure**. Ganador del **3er lugar en Alumnithon 2025** con SkillLink, una plataforma de colaboración en tiempo real.
 
 - 🔭 Actualmente trabajando en: **Microservicios con Spring Boot y WebSocket**
 - 🌱 Aprendiendo: **Oracle Cloud Infrastructure avanzado** y **Arquitecturas distribuidas**
