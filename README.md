@@ -2,7 +2,7 @@
   
   # 👋 ¡Hola! Soy Juan Valenzuela
   
-  ## Backend Developer - DevOps | Oracle Next Education (ONE) | Java - Spring Boot + Cloud Computing
+  ## Java Backend Developer | Oracle Cloud Certified Specialist (OCI) | DevOps CI/CD
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Specialist;Cloud+Computing+%26+OCI;WebSocket+%26+Microservices;Always+Building+Scalable+Solutions" alt="Typing SVG" />
   
@@ -12,14 +12,17 @@
 
 ## 🚀 **Sobre mí**
 
-Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** y **Cloud Computing**, graduado del programa **Oracle Next Education (ONE)**. Me enfoco en crear arquitecturas robustas, APIs escalables y soluciones empresariales con **Oracle Cloud Infrastructure**. Ganador del **3er lugar en Alumnithon 2025** con SkillLink, una plataforma de colaboración en tiempo real.
+Soy un **desarrollador backend Java** especialista **Oracle Cloud** con experiencia en **DevOps**, graduado del programa **Oracle Next Education (ONE)**. Me enfoco en crear arquitecturas robustas, APIs escalables y soluciones empresariales con **Oracle Cloud Infrastructure**. Ganador del **3er lugar en Alumnithon 2025** con SkillLink, una plataforma de colaboración en tiempo real.
 
 - 🔭 Actualmente trabajando en: **Microservicios con Spring Boot y WebSocket**
 - 🌱 Aprendiendo: **Oracle Cloud Infrastructure avanzado** y **Arquitecturas distribuidas**
 - 🔥 **Oracle Next Education (ONE)**: Programa de formación tecnológica Oracle-Alura
-- ☁️ Certificado: **Oracle Cloud Infrastructure Foundations Associate**
+- ☁️ Certificado:
+  - **Oracle Cloud Infrastructure Developer Professional**
+  - **Oracle Cloud Infrastructure Architect Associate**
+  - **Oracle Cloud Infrastructure Foundations Associate**
 - 🏆 Logros: **3er lugar Alumnithon 2025** - Plataforma colaborativa SkillLink
-- 💡 Intereses: **Clean Architecture**, **Microservices**, **Cloud-Native Applications**
+- 💡 Intereses: **Clean Architecture**, **Microservices**, **Cloud-Native Applications**, **Multicloud**
 - ⚡ Fun fact: **Linux enthusiast** y apasionado por la optimización de sistemas
 
 ---
@@ -48,6 +51,8 @@ Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -66,9 +71,9 @@ Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** 
 
 <div align="center">
 
+[![EduPlatform](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Valenzuela3&repo=E-Learning-Platform&theme=tokyonight)](https://github.com/Juan-Valenzuela3/E-Learning-Platform)
 [![SkillLink Backend](https://github-readme-stats.vercel.app/api/pin/?username=R-Mutt22&repo=alumnithon-bad-batch-backend&theme=tokyonight)](https://github.com/R-Mutt22/alumnithon-bad-batch-backend)
 [![MovieVault Backend](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Valenzuela3&repo=MovieVault-Backend&theme=tokyonight)](https://github.com/Juan-Valenzuela3/MovieVault-Backend)
-
 [![ForoHub](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Valenzuela3&repo=ForoHub&theme=tokyonight)](https://github.com/Juan-Valenzuela3/ForoHub)
 [![DeliKiosk](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Valenzuela3&repo=DeliKiosk&theme=tokyonight)](https://github.com/Juan-Valenzuela3/DeliKiosk)
 
@@ -76,6 +81,7 @@ Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** 
 
 ### **🎯 Descripción de Proyectos:**
 
+- **EduPlatform Backend**: Hackaton NoCountry - Academia digital desplegada en Oracle Cloud Infrastructure
 - **SkillLink Backend**: **3er lugar Alumnithon 2025** - API de colaboración en tiempo real con Spring Boot 3.x, WebSocket, JWT y PostgreSQL
 - **🎬 MovieVault Backend**: API robusta con Spring Boot 3.4.4, JWT authentication, PostgreSQL y Docker para gestión cinematográfica
 - **💬 ForoHub**: Sistema de foros empresarial con Spring Boot, Spring Security, JWT y validaciones robustas para escalabilidad  
@@ -85,12 +91,15 @@ Soy un **desarrollador backend - DevOps** especializado en **Java Spring Boot** 
 
 ## 🎓 **Certificaciones & Educación**
 
+- ☁️ **Oracle Cloud Infrastructure DevOps Professional** (En progreso - 2025)
+- ☁️ **Oracle Cloud Infrastructure Developer Professional** (Certificado - 2025)
+- ☁️ **Oracle Cloud Infrastructure Architect Associate** (Certificado - 2025)
 - ☁️ **Oracle Cloud Infrastructure Foundations Associate** (Certificado - 2025)
 - 🔥 **Oracle Next Education (ONE)** - Programa de formación tecnológica Oracle-Alura (2024-2025)
 - 🏆 **FreeCodeCamp Full Stack Developer Certification** (Completado - 2024)
 - 🥉 **3er Lugar Alumnithon 2025** - SkillLink Platform (Competencia Nacional)
 - 📚 **51+ cursos completados** - AluraLatam (Java, Spring Boot, Cloud Computing, DevOps)
-- 🎓 **SENA - Análisis y Desarrollo de Software** (En curso - Feb 2026)
+- 🎓 **SENA - Análisis y Desarrollo de Software** (Etapa lectiva finalizada)
 
 ---
 
