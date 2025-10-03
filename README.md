@@ -2,7 +2,7 @@
   
   # 👋 ¡Hola! Soy Juan Valenzuela
   
-  ## Java Backend Developer | Oracle Cloud Certified Specialist (OCI) | DevOps CI/CD
+  ## Java/Node.js Backend Developer | Oracle Cloud Certified Specialist (OCI) | DevOps CI/CD
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot+Specialist;Cloud+Computing+%26+OCI;WebSocket+%26+Microservices;Always+Building+Scalable+Solutions" alt="Typing SVG" />
   
@@ -12,18 +12,27 @@
 
 ## 🚀 **Sobre mí**
 
-Soy un **desarrollador backend Java** especialista **Oracle Cloud** con experiencia en **DevOps**, graduado del programa **Oracle Next Education (ONE)**. Me enfoco en crear arquitecturas robustas, APIs escalables y soluciones empresariales con **Oracle Cloud Infrastructure**. Ganador del **3er lugar en Alumnithon 2025** con SkillLink, una plataforma de colaboración en tiempo real.
+Soy un **desarrollador backend Junior** con fuerte enfoque en sistemas escalables y arquitectura Cloud-Native.
+Mi experiencia incluye la creación de **APIs REST** robustas con **Java (Spring Boot)** y **Node.js/TypeScript**, y la orquestación de servicios mediante **Docker** y **pipelines CI/CD**.
 
-- 🔭 Actualmente trabajando en: **Microservicios con Spring Boot y WebSocket**
-- 🌱 Aprendiendo: **Oracle Cloud Infrastructure avanzado** y **Arquitecturas distribuidas**
-- 🔥 **Oracle Next Education (ONE)**: Programa de formación tecnológica Oracle-Alura
-- ☁️ Certificado:
-  - **Oracle Cloud Infrastructure Developer Professional**
-  - **Oracle Cloud Infrastructure Architect Associate**
-  - **Oracle Cloud Infrastructure Foundations Associate**
-- 🏆 Logros: **3er lugar Alumnithon 2025** - Plataforma colaborativa SkillLink
-- 💡 Intereses: **Clean Architecture**, **Microservices**, **Cloud-Native Applications**, **Multicloud**
-- ⚡ Fun fact: **Linux enthusiast** y apasionado por la optimización de sistemas
+## 🏆 Logros Destacados:
+- **🥇 Ganador del 1er Puesto en Hackaton Octubre 2025** (E-Learning Platform: Java/Spring Boot + OCI Deployment).
+- **🥉 3er Puesto Alumnithon 2025** (SkillLink: Backend con WebSockets).
+
+## 🎓 **Certificaciones & Educación**
+
+- ☁️ **Oracle Cloud Infrastructure DevOps Professional** (En progreso - 2025)
+- ☁️ **Oracle Cloud Infrastructure Developer Professional** (Certificado - 2025)
+- ☁️ **Oracle Cloud Infrastructure Architect Associate** (Certificado - 2025)
+- ☁️ **Oracle Cloud Infrastructure Foundations Associate** (Certificado - 2025)
+- 🔥 **Oracle Next Education (ONE)** - Programa de formación tecnológica Oracle-Alura (2024-2025)
+- 🏆 **FreeCodeCamp Full Stack Developer Certification** (Completado - 2024)
+- 📚 **51+ cursos completados** - AluraLatam (Java, Spring Boot, Cloud Computing, DevOps)
+- 🎓 **SENA - Análisis y Desarrollo de Software** (Etapa lectiva finalizada)
+
+## **Intereses**
+- 🔭 Actualmente aprendiendo: **Microservicios, arquitectura multicloud y DevOps avanzado
+- ⚡ Fun fact: **Linux enthusiast** y apasionado por la optimización de sistemas y bash scripting
 
 ---
 
@@ -31,6 +40,7 @@ Soy un **desarrollador backend Java** especialista **Oracle Cloud** con experien
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -81,7 +91,7 @@ Soy un **desarrollador backend Java** especialista **Oracle Cloud** con experien
 
 ### **🎯 Descripción de Proyectos:**
 
-- **EduPlatform Backend**: Hackaton NoCountry - Academia digital desplegada en Oracle Cloud Infrastructure
+- **EduPlatform Backend**: **1er lugar Hackathon 2025** NoCountry - Academia digital desplegada en Oracle Cloud Infrastructure
 - **SkillLink Backend**: **3er lugar Alumnithon 2025** - API de colaboración en tiempo real con Spring Boot 3.x, WebSocket, JWT y PostgreSQL
 - **🎬 MovieVault Backend**: API robusta con Spring Boot 3.4.4, JWT authentication, PostgreSQL y Docker para gestión cinematográfica
 - **💬 ForoHub**: Sistema de foros empresarial con Spring Boot, Spring Security, JWT y validaciones robustas para escalabilidad  
@@ -89,17 +99,7 @@ Soy un **desarrollador backend Java** especialista **Oracle Cloud** con experien
 
 ---
 
-## 🎓 **Certificaciones & Educación**
 
-- ☁️ **Oracle Cloud Infrastructure DevOps Professional** (En progreso - 2025)
-- ☁️ **Oracle Cloud Infrastructure Developer Professional** (Certificado - 2025)
-- ☁️ **Oracle Cloud Infrastructure Architect Associate** (Certificado - 2025)
-- ☁️ **Oracle Cloud Infrastructure Foundations Associate** (Certificado - 2025)
-- 🔥 **Oracle Next Education (ONE)** - Programa de formación tecnológica Oracle-Alura (2024-2025)
-- 🏆 **FreeCodeCamp Full Stack Developer Certification** (Completado - 2024)
-- 🥉 **3er Lugar Alumnithon 2025** - SkillLink Platform (Competencia Nacional)
-- 📚 **51+ cursos completados** - AluraLatam (Java, Spring Boot, Cloud Computing, DevOps)
-- 🎓 **SENA - Análisis y Desarrollo de Software** (Etapa lectiva finalizada)
 
 ---
 
